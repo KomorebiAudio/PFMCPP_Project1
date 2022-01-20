@@ -103,13 +103,13 @@ bird.call();
 //  action 3: the bird hunts
 bird.hunt();
 //  7)
-//  Noun: man
-//  action 1: the man shouts
-man.shout();
-//  action 2: the man falls
-man.fall();
-//  action 3: the man punches
-man.punch();
+//  Noun: washing machine
+//  action 1: the washing machine spins the towel
+washingMachine.spinTowel();
+//  action 2: the washing machine cleans the socks
+washingMachine.cleanSocks();
+//  action 3: the washing machine plays a song
+washingMachine.playSong();
 //  8)
 //  Noun:  spider
 //  action 1: the spider crawls
